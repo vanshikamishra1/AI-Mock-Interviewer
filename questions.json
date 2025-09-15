@@ -1,0 +1,414 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "fill_up",
+      "question": "What are spreadsheets?"
+    },
+    {
+      "id": 2,
+      "type": "fill_up",
+      "question": "What is a cell address?"
+    },
+    {
+      "id": 3,
+      "type": "fill_up",
+      "question": "Differentiate between the terms \"absolute cell referencing\" and \"relative cell referencing\" in Microsoft Excel."
+    },
+    {
+      "id": 4,
+      "type": "fill_up",
+      "question": "What do you understand by \"freeze panes\" in MS excel?"
+    },
+    {
+      "id": 5,
+      "type": "fill_up",
+      "question": "How can one restrict copying a cell from a worksheet?"
+    },
+    {
+      "id": 6,
+      "type": "fill_up",
+      "question": "Differentiate a formula from a function in excel."
+    },
+    {
+      "id": 7,
+      "type": "fill_up",
+      "question": "Discuss how Excel evaluates formulas in terms of the order of operations."
+    },
+    {
+      "id": 8,
+      "type": "fill_up",
+      "question": "Write the differences between COUNT, COUNTA and COUNTBLANK."
+    },
+    {
+      "id": 9,
+      "type": "fill_up",
+      "question": "How can we combine text strings from several cells into one cell?"
+    },
+    {
+      "id": 10,
+      "type": "fill_up",
+      "question": "How would you add comments to your cells?"
+    },
+    {
+      "id": 11,
+      "type": "fill_up",
+      "question": "What are the steps to split a column into two or more columns?"
+    },
+    {
+      "id": 12,
+      "type": "fill_up",
+      "question": "What is VLOOKUP in excel? How does the VLOOKUP function work?"
+    },
+    {
+      "id": 13,
+      "type": "fill_up",
+      "question": "Can VLOOKUP be used on many tables?"
+    },
+    {
+      "id": 14,
+      "type": "fill_up",
+      "question": "How is VLOOKUP different from LOOKUP?"
+    },
+    {
+      "id": 15,
+      "type": "fill_up",
+      "question": "Discuss the functionality of IF() in Excel."
+    },
+    {
+      "id": 16,
+      "type": "fill_up",
+      "question": "Discuss the functionality of SUMIF() in Excel."
+    },
+    {
+      "id": 17,
+      "type": "fill_up",
+      "question": "How do you create a dropdown list in excel?"
+    },
+    {
+      "id": 19,
+      "type": "fill_up",
+      "question": "How do you identify repeated values in a column?"
+    },
+    {
+      "id": 20,
+      "type": "fill_up",
+      "question": "How can duplicate values be eliminated from a cell range?"
+    },
+    {
+      "id": 21,
+      "type": "fill_up",
+      "question": "What are wildcards in Excel?"
+    },
+    {
+      "id": 22,
+      "type": "fill_up",
+      "question": "What is the ribbon in excel?"
+    },
+    {
+      "id": 23,
+      "type": "fill_up",
+      "question": "Explain data validation in excel."
+    },
+    {
+      "id": 25,
+      "type": "fill_up",
+      "question": "Explain the difference between SUBSTITUTE and REPLACE in excel."
+    },
+    {
+      "id": 26,
+      "type": "fill_up",
+      "question": "Which two macro languages are there in Microsoft Excel?"
+    },
+    {
+      "id": 27,
+      "type": "fill_up",
+      "question": "What is a macro in excel?"
+    },
+    {
+      "id": 28,
+      "type": "fill_up",
+      "question": "What is a pivot table?"
+    },
+    {
+      "id": 29,
+      "type": "fill_up",
+      "question": "How do you create a pivot table?"
+    },
+    {
+      "id": 30,
+      "type": "fill_up",
+      "question": "Differentiate between Pivot charts and standard charts."
+    },
+    {
+      "id": 31,
+      "type": "fill_up",
+      "question": "How does a slicer work in Excel?"
+    },
+    {
+      "id": 32,
+      "type": "fill_up",
+      "question": "Can many tables be used to build pivot tables?"
+    },
+    {
+      "id": 33,
+      "type": "fill_up",
+      "question": "Can you use tables from separate worksheets to create a pivot table?"
+    },
+    {
+      "id": 34,
+      "type": "fill_up",
+      "question": "Without installing Microsoft Office, how can I produce an Excel (.XLS and .XLSX) file in C#?"
+    },
+    {
+      "id": 35,
+      "type": "fill_up",
+      "question": "How can you prevent Excel from turning specific text values into dates automatically?"
+    },
+    {
+      "id": 36,
+      "type": "fill_up",
+      "question": "Is it possible to crack the password for an Excel VBA project?"
+    },
+    {
+      "id": 37,
+      "type": "fill_up",
+      "question": "What do you understand by What If analysis?"
+    },
+    {
+      "id": 38,
+      "type": "fill_up",
+      "question": "How can I disable Pivot Tables' automatic sorting?"
+    },
+    {
+      "id": 39,
+      "type": "fill_up",
+      "question": "What distinguishes a function from a subroutine in VBA?"
+    },
+    {
+      "id": 40,
+      "type": "fill_up",
+      "question": "How would you debug a VBA code?"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "question": "Which function would you use to find the highest value in a range?",
+      "options": ["MAX()", "LARGE()", "HIGH()", "PEAK()"]
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "question": "What does the '$' symbol represent in an Excel cell reference?",
+      "options": ["It is a currency format.", "It makes the reference absolute.", "It indicates a hidden cell.", "It is used for external references."]
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "question": "Which key combination is used to create an absolute reference?",
+      "options": ["Ctrl + A", "F2", "F4", "Alt + F4"]
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "question": "The NOW() function returns:",
+      "options": ["Only the current time.", "Only the current date.", "The current date and time.", "A serial number representing the current date."]
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "question": "What is the primary purpose of the 'IFERROR' function?",
+      "options": ["To check if a cell is empty.", "To trap and handle errors in a formula.", "To perform a logical test.", "To return an error value intentionally."]
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "question": "Which chart is best suited for showing trends over time?",
+      "options": ["Pie Chart", "Line Chart", "Bar Chart", "Doughnut Chart"]
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "question": "The 'Find & Select' tool is located in which tab?",
+      "options": ["Insert", "Data", "View", "Home"]
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "question": "To quickly autofill a series of dates, you would:",
+      "options": ["Use the Fill Series dialog box.", "Copy and paste the first date.", "Drag the fill handle of the first cell.", "Use the RAND() function."]
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "question": "Which function counts cells that meet multiple criteria?",
+      "options": ["COUNTIF()", "SUMIF()", "COUNTIFS()", "TOTALIF()"]
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "question": "What does the 'Wrap Text' feature do?",
+      "options": ["It shrinks text to fit a cell.", "It displays text on multiple lines within a cell.", "It hides text that overflows.", "It changes the text direction to vertical."]
+    },
+    {
+      "id": 51,
+      "type": "mcq",
+      "question": "The 'Evaluate Formula' tool is found in the _________ tab.",
+      "options": ["Formulas", "Data", "Review", "View"]
+    },
+    {
+      "id": 52,
+      "type": "mcq",
+      "question": "Which is NOT a valid data type for a cell in Excel?",
+      "options": ["Number", "Text", "Date/Time", "Object"]
+    },
+    {
+      "id": 53,
+      "type": "mcq",
+      "question": "To protect the structure of a workbook, you would use:",
+      "options": ["Sheet Protection", "Workbook Protection", "File encryption with a password", "Mark as Final"]
+    },
+    {
+      "id": 54,
+      "type": "mcq",
+      "question": "Which symbol is used to begin any formula or function in Excel?",
+      "options": ["#", "=", "@", "+"]
+    },
+    {
+      "id": 55,
+      "type": "mcq",
+      "question": "The 'Go To Special' dialog box can be used to select:",
+      "options": ["All cells with formulas.", "All cells with comments.", "All blank cells.", "All of the above."]
+    },
+    {
+      "id": 56,
+      "type": "mcq",
+      "question": "Which function is used to join two or more text strings into one string?",
+      "options": ["JOIN()", "MERGE()", "CONCAT()", "APPEND()"]
+    },
+    {
+      "id": 57,
+      "type": "mcq",
+      "question": "What is the keyboard shortcut to create a new pivot table?",
+      "options": ["Ctrl + N", "Alt + N, V", "Ctrl + T", "Shift + F10"]
+    },
+    {
+      "id": 58,
+      "type": "mcq",
+      "question": "The 'Scenario Manager' is a part of:",
+      "options": ["Data Validation", "Solver", "What-If Analysis", "Forecast Sheet"]
+    },
+    {
+      "id": 59,
+      "type": "mcq",
+      "question": "To permanently delete a worksheet, you must:",
+      "options": ["Right-click the sheet tab and select 'Delete'.", "Hide the sheet.", "Clear all contents from the sheet.", "Protect the workbook."]
+    },
+    {
+      "id": 60,
+      "type": "mcq",
+      "question": "The 'Name Manager' can be accessed from the _________ tab.",
+      "options": ["Home", "Insert", "Formulas", "Data"]
+    },
+    {
+      "id": 61,
+      "type": "scenario",
+      "question": "You have a list of 10,000 sales transactions. You need to find the total sales for a specific product category in a specific region for the last quarter. What is the MOST efficient method?"
+    },
+    {
+      "id": 62,
+      "type": "scenario",
+      "question": "A colleague sends you a workbook where VLOOKUP formulas are returning #N/A errors, but you can see the lookup value exists in the table. What is the MOST likely cause?"
+    },
+    {
+      "id": 63,
+      "type": "scenario",
+      "question": "Your worksheet is very slow to recalculate. What steps can you take to improve performance?"
+    },
+    {
+      "id": 64,
+      "type": "scenario",
+      "question": "You need to send a workbook to a client but want to ensure they can only view the final results on the 'Summary' sheet and not see the raw data on other sheets. How do you proceed?"
+    },
+    {
+      "id": 65,
+      "type": "scenario",
+      "question": "You have a column of dates formatted as text (e.g., '20231027'). How do you convert them to a valid Excel date format?"
+    },
+    {
+      "id": 66,
+      "type": "scenario",
+      "question": "A formula is referencing a cell on another closed workbook. What will happen when you open the current file?"
+    },
+    {
+      "id": 67,
+      "type": "scenario",
+      "question": "You need to apply the same complex formatting to several different, non-adjacent cells. What is the quickest way to do this?"
+    },
+    {
+      "id": 68,
+      "type": "scenario",
+      "question": "You've been given a dataset where full names are in a single column (e.g., 'John Doe'). You need to split them into 'First Name' and 'Last Name' columns. How do you do it?"
+    },
+    {
+      "id": 69,
+      "type": "scenario",
+      "question": "You create a dropdown list using Data Validation, but the source list for the dropdown is on a hidden sheet. A user reports the dropdown isn't working. Why?"
+    },
+    {
+      "id": 70,
+      "type": "scenario",
+      "question": "You need to sum values in column B only if the corresponding value in column A is greater than 100 and the corresponding value in column C is \"Approved\". Which function do you use?"
+    },
+    {
+      "id": 71,
+      "type": "experience",
+      "question": "Describe a situation where you had to use a complex nested IF formula. What was the challenge, and was there a better alternative?"
+    },
+    {
+      "id": 72,
+      "type": "experience",
+      "question": "Tell me about a time you used a PivotTable to solve a problem that would have been very difficult with standard formulas."
+    },
+    {
+      "id": 73,
+      "type": "experience",
+      "question": "Describe a project where you automated a repetitive Excel task using macros/VBA."
+    },
+    {
+      "id": 74,
+      "type": "experience",
+      "question": "Have you ever used the Power Query tool in Excel? Describe what you used it for."
+    },
+    {
+      "id": 75,
+      "type": "experience",
+      "question": "Describe a time you used conditional formatting to quickly identify key insights in a dataset."
+    },
+    {
+      "id": 76,
+      "type": "experience",
+      "question": "Tell me about a time you had to collaborate on an Excel file with multiple users. How did you manage version control and avoid conflicts?"
+    },
+    {
+      "id": 77,
+      "type": "experience",
+      "question": "Describe a situation where data validation was critical to ensuring data integrity in a shared workbook."
+    },
+    {
+      "id": 78,
+      "type": "experience",
+      "question": "Have you ever used array formulas (or dynamic array formulas)? Describe the problem they solved."
+    },
+    {
+      "id": 79,
+      "type": "experience",
+      "question": "Describe a time you used the Goal Seek or Solver tool for analysis."
+    },
+    {
+      "id": 80,
+      "type": "experience",
+      "question": "Tell me about a time you made a mistake in an Excel model and how you caught and corrected it."
+    }
+  ]
+}
