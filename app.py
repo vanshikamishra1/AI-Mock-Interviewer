@@ -1,3 +1,5 @@
+#FRONTEND
+
 import streamlit as st
 import requests, time, random
 
@@ -185,3 +187,4 @@ if st.session_state.stage == "results":
     feedback = st.text_area("Please share your feedback about this interview experience:", height=120)
     if st.button("Submit Feedback"):
         st.success("Thank you for your feedback! It will help us improve.")
+
