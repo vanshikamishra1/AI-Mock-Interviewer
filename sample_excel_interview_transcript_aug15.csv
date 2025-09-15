@@ -1,0 +1,26 @@
+QuestionID,Question,CandidateAnswer,Score,Remarks,Timestamp
+Q1,What is a cell in Excel?,A cell is the intersection of a row and column where you enter data.,4,Correct and clear explanation.,2025-08-15 15:00:12
+Q2,Explain the use of VLOOKUP.,VLOOKUP helps find a value in a table based on a matching value in the first column.,4,"Good explanation, concise and correct.",2025-08-15 15:02:19
+Q3,What is a Pivot Table?,It’s a tool to summarize data quickly.,3,"Partially correct, could mention grouping or filters.",2025-08-15 15:02:59
+Q4,How do you apply conditional formatting?,"I know it highlights cells based on rules, but I forget exact steps.",2,"Partial understanding, needs step-by-step example.",2025-08-15 15:05:33
+Q5,What is the difference between COUNT and COUNTA?,"COUNT counts numbers, COUNTA counts all non-empty cells.",4,Perfect explanation.,2025-08-15 15:05:47
+Q6,Explain absolute vs relative cell reference.,"Relative changes when copied, absolute stays fixed with $.",4,Correct and concise.,2025-08-15 15:06:26
+Q7,How do you protect a worksheet?,I think you go to the Review tab and click Protect Sheet.,4,Good explanation.,2025-08-15 15:10:39
+Q8,What is a macro in Excel?,A macro automates repetitive tasks by recording actions.,4,Good explanation.,2025-08-15 15:11:35
+Q9,Explain the IF function.,"IF checks a condition and returns one value if true, another if false.",4,Clear and correct.,2025-08-15 15:14:35
+Q10,How do you create a chart?,Select data and insert chart.,4,Correct steps.,2025-08-15 15:15:04
+Q11,What is the purpose of the Freeze Panes feature?,It keeps headers visible when scrolling.,4,Correct explanation.,2025-08-15 15:16:41
+Q12,Explain the difference between a workbook and a worksheet.,"Workbook is the file, worksheet is a sheet inside it.",4,Accurate and clear.,2025-08-15 15:16:45
+Q13,What are named ranges?,I know but I forgot exactly how to create them.,2,"Partial knowledge, needs proper creation steps.",2025-08-15 15:17:00
+Q14,How do you use the CONCATENATE function?,"I’m not sure, maybe to join text.",3,"Partially correct, could explain syntax.",2025-08-15 15:17:15
+Q15,Explain the difference between relative and mixed cell reference.,"Relative changes, mixed partially fixed.",3,"Good, but could give an example.",2025-08-15 15:17:44
+Q16,What is the difference between a formula and a function?,"A formula calculates values, a function is a predefined formula.",4,Correct explanation.,2025-08-15 15:18:06
+Q17,Explain the use of the MATCH function?,,0,Unattempted,2025-08-15 15:21:19
+Q18,How do you sort data in Excel?,Select the column and click Sort A-Z or Z-A.,4,Correct and simple explanation.,2025-08-15 15:21:22
+Q19,What is conditional formatting?,"It formats cells based on rules, like colors.",3,"Partially correct, could mention custom rules.",2025-08-15 15:21:34
+Q20,How do you remove duplicates?,Select data -> Remove Duplicates.,4,Correct steps.,2025-08-15 15:22:21
+Q21,What are charts types in Excel?,"I know there are bar, line, pie, but forgot details.",2,"Partial knowledge, could give examples.",2025-08-15 15:23:00
+Q22,"Explain the difference between LEFT, RIGHT, MID functions.","LEFT takes first characters, RIGHT last, MID middle ones.",4,Correct and clear.,2025-08-15 15:25:43
+Q23,What is data validation?,,0,Unattempted,2025-08-15 15:26:26
+Q24,Explain how to use the TEXT function.,It formats numbers as text.,3,"Partially correct, could mention format codes.",2025-08-15 15:27:49
+Q25,What is a dynamic array?,,0,Unattempted,2025-08-15 15:28:58
